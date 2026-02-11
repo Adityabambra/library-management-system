@@ -1,0 +1,27 @@
+{
+    "books": [
+        "Angular",
+        "C",
+        "C++",
+        "Css",
+        "Django",
+        "Flask",
+        "Go",
+        "Html",
+        "Java",
+        "Javascript",
+        "Kotlin",
+        "Nodejs",
+        "Numpy",
+        "Oops With Python",
+        "Pandas",
+        "Php",
+        "Python",
+        "React",
+        "Ruby",
+        "Sql",
+        "Swift"
+    ],
+    "borrowed": {},
+    "ammount_collected": 200
+}

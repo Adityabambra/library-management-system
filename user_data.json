@@ -1,0 +1,28 @@
+{
+    "user": [
+        {
+            "name": "Aditya",
+            "no": 9999999999,
+            "id": 123123123123,
+            "pin": "bfaa492bc1eb6c25c1e676ff0f4bab292e725a5cc3290f0a6d58750439d12f10",
+            "fine": 0
+        }
+    ],
+    "history": {
+        "Aditya_8580489457": [
+            {
+                "book": "Sql",
+                "issue_date": "22-12-2025",
+                "return_date": "22-12-2025"
+            }
+        ]
+    },
+    "donar": {
+        "Aditya_8580489457": [
+            {
+                "Book_name": "Oops With Python",
+                "Date": "26-12-2025"
+            }
+        ]
+    }
+}
